@@ -17,10 +17,12 @@ import { post as post_placeholder_12_11 } from './placeholder-12.data'
 import { post as post_placeholder_13_12 } from './placeholder-13.data'
 import { post as post_placeholder_14_13 } from './placeholder-14.data'
 import { post as post_placeholder_15_14 } from './placeholder-15.data'
+import { post as uncovering_phthalates_expert_insights_on_their_hidden_risks } from './uncovering-phthalates-expert-insights-on-their-hidden-risks.data'
 
 // Export all posts (newest first)  
 // Backend will APPEND new imports here when posts are built
 export const allPosts = [
+  uncovering_phthalates_expert_insights_on_their_hidden_risks,
   post_placeholder_1_0,
   post_placeholder_2_1,
   post_placeholder_3_2,
